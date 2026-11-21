@@ -13,4 +13,5 @@ An AI-powered Practical Assistant Agent built with **LangGraph** and **ChatGroq*
 1. Clone this repository and install dependencies:
 ```bash
 pip install -r requirements.txt
-https://event-holiday-agent-usbm8rlz63mwzy6lmvtsrh.streamlit.app/https://event-holiday-agent-usbm8rlz63mwzy6lmvtsrh.streamlit.app/
+## Live Demo
+Streamlit App:https://event-holiday-agent-usbm8rlz63mwzy6lmvtsrh.streamlit.app/
